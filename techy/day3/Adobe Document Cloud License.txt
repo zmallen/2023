@@ -1,0 +1,80 @@
+ADOBE DOCUMENT CLOUD READER
+(“Agreement”). You must not use the Software if: (a) you do not agree to the terms of this Agreement;
+Software (as defined below), you accept all the terms and conditions of this Software License Agreement
+this Agreement is enforceable against you and any entity that obtained the Software and on whose behalf it is used.
+0. Third-Party Offerings might not be available in all languages or to residents of all countries, and Adobe or the third party may
+y1. Restrictions and Requirements. Service Bureau Prohibition. You will not use or offer the Software on a service bureau basis. Sec
+ction 11 provides a limited exception for font software only
+2. No Sublicensing or Transfer. You will not rent, lease, sell, sublicense, assign, or transfer your rights in the Software, or aut
+thorize any portion of the Software to be copied onto another individual or legal entity’s Computer except as may be expressly
+y permitted herei
+3. Survival. Upon the expiration or termination of this Agreement, the Software may cease to operate without prior notice. Your ind
+demnification obligations, Adobe’s warranty disclaimers or limitations of liabilities, intellectual property ownership, privac
+cy, termination, export rules, governing law and dispute resolution provisions, and general provisions as stated in this Agreeme
+ent will survive. The survival of these provisions will not create or imply any continued right to access and use the Software a
+after termination of the Agreem
+4. Server Use and Distribution. This Agreement does not permit you to install or Use the Software on a server, nor does it grant yo
+ou the right to sublicense or distribute the Software. For more information about obtaining such rights, please visit http://www
+w.adobe.com/go/acrobat_distribut
+5. Termination. You and Adobe will each have the right to terminate this Agreement for any reason upon providing at least 30 days�
+�� prior written notice. Effective upon termination, you will immediately cease your use of the Software and will destroy (at Ad
+dobe’s request) your copy of the Software. All licenses granted to you by Adobe will immediately cease upon terminatio
+6. Export Rules: Trade Sanctions and Export Control. The Software, and your use of the Software, is subject to laws, restrictions, 
+ and regulations of the United States and other jurisdictions that (A) govern the import, export, and use of the Software; and (
+(B) may prohibit us from providing the Software to you without notice. By using the Software, you agree to comply with all such 
+ laws, restrictions, and regulations, and you warrant that you are not prohibited from receiving the Software by the laws of any
+y jurisdict
+7. Except for German or Austrian consumers, Section 14 (Limitation of Liability) still applies. You are advised to take all reasona
+able measures to avoid and reduce damages, in particular by making a backup copy of the Software and backup copies of your data
+8. Miscellaneous. Entire Agreement. This Agreement contains the entire understanding of you and Adobe relating to the subject matte
+er and supersedes all earlier agreements, understandings, proposals, discussions, negotiations, representations and warranties, 
+ both written and oral, regarding the subject matte
+9. Connectivity. Automatic Connections to the Internet. The Software may cause your Computer, without notice, to automatically conn
+nect to the Internet and to communicate with an Adobe website or Adobe domain for purposes such as providing you with additional
+l information, features, or functionality (such as Adobe Online Services
+10. Third-Party Offerings. Third-Party Offerings. The Software may allow you to access and interoperate with third-party content, so
+oftware applications, and data services (“Third-Party Offerings”). Your access to and use of any Third-Party Offering, inclu
+uding any goods, services, information, or Digital Certificates, is governed by the terms and conditions respecting such offerin
+ngs and by applicable law. Third-Party Offerings are not owned or provided by Adobe. You agree that you will not use any such Th
+hird-Party Offerings in violation of applicable laws, including copyright laws of the United States or other countries. Adobe or
+r the third party may at any time, for any reason, modify or discontinue the availability of any Third-Party Offerings. Adobe do
+oes not control, endorse, or accept responsibility for Third-Party Offerings. Any dealings between you and any third party in co
+onnection with any Third-Party Offerings, including such party’s privacy policies and use of your personal information, delive
+ery of and payment for goods and services, and any other terms, conditions, warranties, or representations associated with such 
+ dealings, are solely between you and the third party. As an example, before relying upon any certified document, digital signat
+ture, or certificate authority, you should review the applicable terms and conditions, such as any subscriber agreements, relyin
+ng party agreements, certificate policies, and practice 
+11. No Modification or Reverse Engineering. You will not modify, port, adapt, translate, or create derivative works based upon the S
+Software in any way. You will not reverse-engineer (including but not limited to monitoring or tracking the inputs and outputs f
+flowing through a system to an application in order to recreate that system), decompile, disassemble, or otherwise attempt to di
+iscover the source code, data representations or underlying algorithms, processes, methods, or any other portion of the Software
+e. If the laws of your jurisdiction give you the right to decompile the Software to obtain information necessary to render the l
+licensed portions of the Software interoperable with other software, you must first request such information from Adobe. Adobe m
+may, in Adobe’s discretion, either provide such information to you or impose reasonable conditions, including a reasonable fee
+e, on your decompilation of the Software to ensure that Adobe and Adobe’s suppliers’ proprietary rights in the Software are 
+ protected. In addition, only you or someone else entitled to use a copy of the Software on your behalf may perform the decompil
+lation. Any information supplied by Adobe or obtained by you, as permitted hereunder, may only be used by you for the purpose de
+escribed herein and may not be disclosed to any third party or used to create any software which is substantially similar to the
+e expression of the Software or used for any other act which infringes Adobe or its licensors’
+12. “Computer” means a virtual machine or physical electronic device that accepts information in digital or similar form and man
+nipulates it for a specific result based on a sequence of instructions, including without limitation desktop computers, laptops,
+, tablets, mobile devices, telecommunication devices, Internet-connected devices, and hardware products capable of operating a w
+wide variety of productivity, entertainment, or other software applications, that conforms to the system requirements of the Sof
+ftware as specified in the Documentat
+13. Integration Restrictions. You will not integrate or use the Software with any other software, plugin, or enhancement that provid
+des PDF capabilities that are only available with a paid Acrobat or Adobe membership or license key, unless we provide or expres
+ssly authorize the integration. Notwithstanding this Section 3.3, you may integrate or use the Software with any plug-in that is
+s provided by or previously approved by Ado
+14. As an exception to the above, the fonts listed at http://www.adobe.com/go/restricted_fonts are included with the Software only f
+for purposes of operation of the Software user interface and not for inclusion within any output files. The listed fonts are not
+t licensed under this Section 11.1.3. You may not copy, move, activate or use, or allow any font management tool to copy, move, 
+ activate or use, the listed fonts in or with any software application, program, or file other than the Softwa
+15. Miscellaneous. Entire Agreement. This Agreement contains the entire understanding of you and Adobe relating to the subject matte
+er and supersedes all earlier agreements, understandings, proposals, discussions, negotiations, representations and warranties, 
+ both written and oral, regarding the subject matte
+16. at any time and for any reason, modify or discontinue the availability of any Third-Party Offerings. Notices
+17. Compliance with Licenses. If you are a business or organization, you agree that upon request from Adobe or Adobe’s authorized 
+ representative, you will, within 30 days, fully document and certify that use of the Software at the time of the request is in 
+ conformity with the licenses granted herei
+18. “Software Integration” means a unique product offering which combines the Software with an additional product, service or pl
+lugin
